@@ -1,4 +1,4 @@
-# Veri_Seti_Olusturma_ve_Modelleme
+# Veri Seti Olusturma ve Modelleme
 
   Bu topladığımız veri setindeki amacımız tweetlerini aldığımız Twitter hesabının genellikle hangi konular üzerinde konuştuğunu belirleyebilmek ve bu konu başlıklarını grafiklere bölerek gösterebilmektir.
 
